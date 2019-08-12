@@ -8,7 +8,6 @@ Ingredients:
  - 2 eggs
  - 1 cup milk
  - 3/4 cup canola oil
->>>>>>> 5e22e77ae672ca0303f89e4147049669f5837313
  - 2 teaspoons vanilla extract
  - 1 cup boiling water
 
